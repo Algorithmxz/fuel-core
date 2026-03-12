@@ -238,3 +238,6 @@ The transaction executor currently performs instant block production. Changes ar
 -   Schema (available after building): `crates/client/assets/schema.sdl`
 
 The service expects a mutation defined as `submit` that receives a [Transaction](https://github.com/FuelLabs/fuel-vm/tree/master/fuel-tx) in hex encoded binary format, as [specified here](https://github.com/FuelLabs/fuel-specs/blob/master/src/tx-format/transaction.md).
+
+
+> Automated agentic update: 2026-03-12T16:49:15.877Z
